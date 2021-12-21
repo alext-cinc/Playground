@@ -1,0 +1,14 @@
+h1, h2, h3 {
+    color:blueviolet;
+}
+
+.example {
+    color:darkblue;
+    margin-bottom: 0px;
+}
+
+#phone {
+    color:darkred;
+    font-size: 130px;
+    margin-top: 0px;
+}
